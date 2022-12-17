@@ -9,7 +9,7 @@ function App() {
               <h1>Under Construction</h1>
 	            <h3>This website is currently under construction and will launch December 25th 2022! Please fill out the form to receive the files.</h3>
 
-            <form action="https://formspree.io/f/mpzeaqjb" method="POST" className="form-container">
+            <form action="https://formspree.io/f/mknawove" method="POST" className="form-container">
               <input type="text" name="Name" placeholder="Full Name" required />
               <input type="text" name="Email" placeholder="Email" required />
               <textarea name="Message" placeholder="Message" required></textarea>
